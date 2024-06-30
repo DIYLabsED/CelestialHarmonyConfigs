@@ -4,7 +4,6 @@ A set of modified configs for ProximaCentauri's planet pack for KSP. Science blu
 
 After downloading and unzipping, move everything inside the `configs` folder into `CelestialHarmony/_Systems/Harmonia/Configs`. Say yes to overwriting files.
 
-## Suggestions
+For a stable, guaranteed-working set of configs, download the latest release. If you want the latest configs, hit `Download Code`. These may not always work, but they are the latest.
 
-### Vallheilheim
-Surface sample for Vallheilheim's apocalypse biome should have something to do with Anakin's hate for sand, maybe something about sand getting in equipment or the kerbal's feet sinking in sand. Maybe putting this in a crew report would be better.
+## Suggestions
